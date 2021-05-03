@@ -29,9 +29,6 @@
       <pointsize>22</pointsize>
      </font>
     </property>
-    <property name="text">
-     <string>Linear Regression Model</string>
-    </property>
    </widget>
    <widget class="QListWidget" name="columns">
     <property name="geometry">
