@@ -1,0 +1,2 @@
+qiskit==0.6.1
+networkx==2.3
