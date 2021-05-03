@@ -1302,37 +1302,12 @@
     </item>
     <item>
      <property name="text">
-      <string>SVM</string>
+      <string>HHL solved regression</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>SVR</string>
-     </property>
-    </item>
-    <item>
-     <property name="text">
-      <string>Logistic Regression</string>
-     </property>
-    </item>
-    <item>
-     <property name="text">
-      <string>Random Forest</string>
-     </property>
-    </item>
-    <item>
-     <property name="text">
-      <string>K-Nearest Neighbour</string>
-     </property>
-    </item>
-    <item>
-     <property name="text">
-      <string>Gaussian NB</string>
-     </property>
-    </item>
-    <item>
-     <property name="text">
-      <string>Multi Layer Perceptron</string>
+      <string>Neural Network</string>
      </property>
     </item>
    </widget>
