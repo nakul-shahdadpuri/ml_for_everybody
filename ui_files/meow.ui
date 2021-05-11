@@ -102,9 +102,9 @@
    <widget class="QLabel" name="label_3">
     <property name="geometry">
      <rect>
-      <x>290</x>
+      <x>310</x>
       <y>10</y>
-      <width>111</width>
+      <width>91</width>
       <height>16</height>
      </rect>
     </property>
@@ -169,7 +169,7 @@
    <widget class="QPushButton" name="heatmap">
     <property name="geometry">
      <rect>
-      <x>680</x>
+      <x>670</x>
       <y>460</y>
       <width>81</width>
       <height>23</height>
@@ -404,10 +404,10 @@
    <widget class="QLabel" name="shape">
     <property name="geometry">
      <rect>
-      <x>380</x>
+      <x>410</x>
       <y>10</y>
-      <width>271</width>
-      <height>16</height>
+      <width>241</width>
+      <height>20</height>
      </rect>
     </property>
     <property name="font">
@@ -1248,7 +1248,7 @@
       <string>Neural Network</string>
      </property>
     </item>
-        <item>
+    <item>
      <property name="text">
       <string>Logistic regression</string>
      </property>
@@ -1259,8 +1259,8 @@
      <rect>
       <x>530</x>
       <y>540</y>
-      <width>71</width>
-      <height>20</height>
+      <width>16</width>
+      <height>16</height>
      </rect>
     </property>
     <property name="font">
@@ -1276,10 +1276,10 @@
    <widget class="QPushButton" name="go_pre_trained">
     <property name="geometry">
      <rect>
-      <x>620</x>
+      <x>530</x>
       <y>540</y>
-      <width>71</width>
-      <height>20</height>
+      <width>16</width>
+      <height>16</height>
      </rect>
     </property>
     <property name="font">
@@ -1295,10 +1295,10 @@
    <widget class="QPushButton" name="train_2">
     <property name="geometry">
      <rect>
-      <x>800</x>
-      <y>450</y>
-      <width>81</width>
-      <height>41</height>
+      <x>530</x>
+      <y>540</y>
+      <width>16</width>
+      <height>16</height>
      </rect>
     </property>
     <property name="font">
