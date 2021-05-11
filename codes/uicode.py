@@ -19,7 +19,7 @@ class error_window(QMainWindow):
 class UI(QMainWindow):
     def __init__(self):
         super(UI, self).__init__()
-        uic.loadUi("../ui_files/Mainwindow.ui", self)
+        uic.loadUi("../ui_files/meow.ui", self)
  
         # find the widgets in the xml file
  
@@ -258,7 +258,7 @@ class UI(QMainWindow):
         # myDict={ "Linear Regression":linear_reg , "SVM":svm_model ,"SVR":SVR , "Logistic Regression":logistic_reg ,"Random Forest":RandomForest,
         # "K-Nearest Neighbour":KNN ,"Multi Layer Perceptron":mlp ,"Gaussian NB":gaussian}
 
-        myDict={ "Linear Regression":linear_reg , "HHL solved regression":linear_reg,"Neural Network":mlp}
+        myDict={ "Linear Regression":linear_reg , "HHL solved regression":linear_reg,"Neural Network":mlp,"Logistic regression":logistic_reg }
         
         if(self.target_value!=""):
             
