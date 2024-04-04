@@ -23,5 +23,5 @@ Once the user is happy with the dataset, they can choose to train a machine lear
 Here the user can set the parameters for the model. From learning rate to the strucute of the model can also be decided by the user.
 ![Screenshot from 2022-03-10 17-17-46](https://user-images.githubusercontent.com/43999912/157657084-adc89875-e664-4f00-a8c7-4db1a7841705.png)
 
-Additionally we also have provided the user with a heatmap for analysis.
+Additionally we also have provided the user with a correlation heatmap for reducing collinearity and reduce overfitting.
 ![Screenshot from 2022-03-10 17-16-38](https://user-images.githubusercontent.com/43999912/157657090-bf19f357-fba3-42c9-b9a1-13a2cf2b4213.png)
