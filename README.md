@@ -14,7 +14,7 @@ python codes/uicode.py
 User Interface. User can use the buttons to load a dataset and to begin the data preprocessing tasks.
 ![Screenshot from 2022-03-10 17-13-59 (2)](https://user-images.githubusercontent.com/43999912/157656920-d56cce13-1dcc-43d3-9e55-9668591504d7.png)
 
-Once data is loaded, user can see the dataset and the datatypes. User can choose to convert categorical values/drop columns or even scale numberical values.
+Once data is loaded, user can see the dataset and the datatypes. User can choose to convert categorical values/drop columns or even scale numerical values.
 ![Screenshot from 2022-03-10 17-14-18](https://user-images.githubusercontent.com/43999912/157656937-66eba70b-1fb1-494f-9532-953c8afc31d2.png)
 
 Once the user is happy with the dataset, they can choose to train a machine learning model on it. We have given option between Linear regression, logitic regression and neural networks. This is the screen for neural networks.
